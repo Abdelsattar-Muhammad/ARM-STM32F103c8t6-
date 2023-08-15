@@ -1,1 +1,1 @@
-# ARM Cortex M3-STM32F103c8t6-
+# ARM Cortex M3-STM32F103
